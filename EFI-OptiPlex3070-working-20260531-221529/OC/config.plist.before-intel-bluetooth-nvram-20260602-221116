@@ -1026,14 +1026,6 @@
 				<data>
 				Rg==
 				</data>
-				<key>bluetoothExternalDongleFailed</key>
-				<data>
-				MDA=
-				</data>
-				<key>bluetoothInternalControllerInfo</key>
-				<data>
-				MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==
-				</data>
 				<key>boot-args</key>
 				<string>alcid=12 igfxonln=1</string>
 				<key>csr-active-config</key>
